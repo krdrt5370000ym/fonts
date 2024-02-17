@@ -18,3 +18,11 @@
   font-weight: 700;
   src: url('https://raw.githubusercontent.com/krdrt5370000ym/fonts/main/DINWebPro-Bold.woff');
 }
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
